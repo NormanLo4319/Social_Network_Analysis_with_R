@@ -11,8 +11,6 @@ Social Network Analysis with R teaches analysts how to visualize and analyze dat
 - Visualizing a network
 - Writing a network description to a text file
 
-### Resources: 
-
-[Social Network Analysis (sna Package)](https://www.rdocumentation.org/packages/sna/versions/2.5)  |  [igraph Package](https://igraph.org/r/)
+**Resources:**  [Social Network Analysis (sna Package)](https://www.rdocumentation.org/packages/sna/versions/2.5)  |  [igraph Package](https://igraph.org/r/)
 
 Copyright © 2020 Norman Lo
