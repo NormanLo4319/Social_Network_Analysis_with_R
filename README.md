@@ -11,6 +11,7 @@ Social Network Analysis with R demonstrates how to visualize and analyze data fr
 ![full](/images/full.png)
 ![ring](/images/ring.png)
 ![star](/images/star.png)
+![gnp](/images/gnp.png)
 
 - Measuring connectedness and betweenness of points
 - Calculating networking density
