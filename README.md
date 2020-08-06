@@ -16,12 +16,21 @@ Social Network Analysis with R demonstrates how to visualize and analyze data fr
 ![ring](/images/ring.png)
 ![star](/images/star.png)
 ![gnp](/images/gnp.png)
+![gnm](/images/gnm.png)
+![pa](/images/pa.png)
 
-- Measuring connectedness and betweenness of points
-- Calculating networking density
-- Describing network components
-- Visualizing a network
-- Writing a network description to a text file
+### Measuring connectedness and betweenness of points
+
+### Calculating networking density
+
+### Describing network components
+
+### Visualizing a network
+
+![format](/images/gnp_format.png)
+
+### Writing a network description to a text file
+
 
 **Resources:**  [Social Network Analysis (sna Package)](https://www.rdocumentation.org/packages/sna/versions/2.5)  |  [igraph Package](https://igraph.org/r/)
 
