@@ -5,7 +5,7 @@ Social Network Analysis with R demonstrates how to visualize and analyze data fr
 ## Learning objectives:
 - Formatting data
 
-[direct](images/direct.png)
+![directed](images/direct.png)  |  ![indirected](images/indirected.png)
 
 - Creating network graphs
 - Measuring connectedness and betweenness of points
