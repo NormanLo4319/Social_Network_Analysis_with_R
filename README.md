@@ -4,13 +4,13 @@ Social Network Analysis with R demonstrates how to visualize and analyze data fr
 
 ## Learning objectives:
 
-### Formatting data (Directed vs. Undirected)
+### Formatting Data (Directed vs. Undirected)
 
 ![undirected](/images/undirected.png)
 ![directed](/images/directed.png)
 
 
-### Creating network graphs
+### Creating Basic Network Graphs
 
 ![full](/images/full.png)
 ![ring](/images/ring.png)
@@ -19,17 +19,17 @@ Social Network Analysis with R demonstrates how to visualize and analyze data fr
 ![gnm](/images/gnm.png)
 ![pa](/images/pa.png)
 
-### Measuring connectedness and betweenness of points
+### Measuring Connectedness and Betweenness of Points
 
-### Calculating networking density
+### Calculating Networking Density
 
-### Describing network components
+### Describing Network Components
 
-### Visualizing a network
+### Visualizing a Network
 
 ![format](/images/gnp_format.png)
 
-### Writing a network description to a text file
+### Writing a Network Description to a Text or Image File
 
 
 **Resources:**  [Social Network Analysis (sna Package)](https://www.rdocumentation.org/packages/sna/versions/2.5)  |  [igraph Package](https://igraph.org/r/)
