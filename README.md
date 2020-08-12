@@ -1,8 +1,18 @@
 # Social Network Analysis with R
-
-Social Network Analysis with R demonstrates how to visualize and analyze data from a social network like Twitter or Facebook with the text-based statistical language, R. If you're involved in analytics in any capacity, this repository could be a huge help, showing you how the R **sna** and **igraph** modules works and how to format data for analysis, create graphs, analyze network graphs, and visualize networks. Use the examples in this repository to explore how to examine the relationships and trends among networks in new and exciting ways, and discover information about how individuals in an organization interact.
+Many complex structures can be modeled by networks. Studying the structure of a network can allow us to answer questions about complex phenomena. In this repository, we demonstrate how to visualize and analyze data from a social network like Twitter or Facebook with the text-based statistical language, R. If you're involved in analytics in any capacity, this repository could be a huge help, showing you how the R **sna** and **igraph** modules works and how to format data for analysis, create graphs, analyze network graphs, and visualize networks. Use the examples in this repository to explore how to examine the relationships and trends among networks in new and exciting ways, and discover information about how individuals in an organization interact.
 
 ## Learning objectives:
+Introduce different types of netorkds in the real world and why we study them. Learn about the basic elements of networks, as well as different types of networks. Represent and manipulate newtworked data using the **sna** and **igraph** libraries. Identify applications and important questions about networks that network science allow us to answer.
+
+## Terminologies:
+Network: A representation of connections among a set of items.
+Nodes or Vertices: Itmes defined in a network
+Edges: Connection between nodes or vertices
+Undirected Network: Edges have no direction
+Directed Network: Edges have direction
+Weighted Network: A network where edges are assigned a (typically numerical) weight.
+
+## Learnign Path:
 
 ### Formatting Data (Directed vs. Undirected)
 
