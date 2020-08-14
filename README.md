@@ -22,7 +22,10 @@ In the example data, we have two data sets to present the directed and undirecte
 
 ![undirected_data](/images/undirected_data.png)
 ![directed_data](/images/directed_data.png)
+
+## Undirected Network:
 ![undirected](/images/undirected.png)
+## Directed Network:
 ![directed](/images/directed.png)
 
 
