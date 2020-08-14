@@ -203,8 +203,8 @@ plot(g)
 
 # Change edge and vertex colors
 g <- sample_gnp(20, 0.1) %>%
-  set_vertex_attr("color", value = "blue") %>%
-  set_edge_attr("color", value = "green")
+  set_vertex_attr("color", value = "green") %>%
+  set_edge_attr("color", value = "blue")
 plot(g)
 
 # Write out the data and graph
