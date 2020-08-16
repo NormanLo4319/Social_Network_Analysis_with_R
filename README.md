@@ -5,12 +5,12 @@ Many complex structures can be modeled by networks. Studying the structure of a 
 Introduce different types of netorkds in the real world and why we study them. Learn about the basic elements of networks, as well as different types of networks. Represent and manipulate newtworked data using the **sna** and **igraph** libraries. Identify applications and important questions about networks that network science allow us to answer.
 
 ## Terminologies:
-Network: A representation of connections among a set of items.
-Nodes or Vertices: Itmes defined in a network
-Edges: Connection between nodes or vertices
-Undirected Network: Edges have no direction
-Directed Network: Edges have direction
-Weighted Network: A network where edges are assigned a (typically numerical) weight.
+**Network**: A representation of connections among a set of items.
+**Nodes** or **Vertices**: Itmes defined in a network
+**Edges**: Connection between nodes or vertices
+**Undirected Network**: Edges have no direction
+**Directed Network**: Edges have direction
+**Weighted Network**: A network where edges are assigned a (typically numerical) weight.
 
 ## Learnign Path:
 
